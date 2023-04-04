@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+  background-color: green;
+  color: azure;
+  font-size: 3rem;
+}
+ul {
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1rem;
+  border: solid white 1px;
+  display: block;
+  max-width: 30%;
+}
+li {
+  list-style: none;
+  text-align: center;
+  margin: 1rem;
+  border: solid white 1px;
+}
