@@ -16,3 +16,4 @@ This is a repository for the tasks assigned to me as part of the Bytewise MERN F
 | 6   | [Learn Tailwind](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=336s)    | ✅     | -          |
 | 7   | [Learn JS Fundamentals](https://youtu.be/XIOLqoPHCJ4)                   | ✅     | -          |
 | 8   | [Learn DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)   | ✅     | -          |
+| 9   | [Learn Asyncronus Javascript](https://youtu.be/ZYb_ZU8LNxs)             |        | -          |
