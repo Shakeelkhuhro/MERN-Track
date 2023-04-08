@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Async JavaScript Example</title>
+  </head>
+  <body>
+    <button id="load-data">Load Data</button>
+    <textarea id="data"></textarea>
+
+    <script>
+      const loadDataButton = document.getElementById("load-data");
+      const dataTextArea = document.getElementById("data");
+
+      loadDataButton.addEventListener("click", () => {
+        fetch("https://jsonplaceholder.typicode.com/posts/1")
+          .then((response) => response.json())
+          .then((data) => {
+            dataTextArea.value = JSON.stringify(data);
+          });
+      });
+    </script>
+  </body>
+</html>
