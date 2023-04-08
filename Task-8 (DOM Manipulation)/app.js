@@ -65,6 +65,7 @@
 //         hiddenCont.classList.remove('AboutMe')
 //     }
 //     else{
+//      console.log('clicked')
 //         hiddenCont.classList.add('AboutMe');
 
 //     }
