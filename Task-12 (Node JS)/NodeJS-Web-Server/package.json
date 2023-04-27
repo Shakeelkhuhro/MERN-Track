@@ -1,5 +1,5 @@
 {
-  "name": "05tut",
+  "name": "task12",
   "version": "1.0.0",
   "description": "Node.js Web Server tutorial",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Abdul Waheed",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.23.0",
