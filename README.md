@@ -6,17 +6,18 @@ This is a repository for the tasks assigned to me as part of the Bytewise MERN F
 
 ## Table
 
-| No. | Task                                                                    | Status | Deployment |
-| --- | ----------------------------------------------------------------------- | ------ | ---------- |
-| 1   | [HTML Basics](https://youtu.be/UB1O30fR-EE)                             | ✅     | -          |
-| 2   | [CSS Basics](https://youtu.be/yfoY53QXEnI)                              | ✅     | -          |
-| 3   | [Build Website (HTML CSS)](https://www.youtube.com/watch?v=lvYnfMOUOJY) | ✅     | -          |
-| 4   | [Learn Flexbox](https://www.youtube.com/watch?v=3YW65K6LcIA)            | ✅     | -          |
-| 5   | [Learn SASS](https://www.youtube.com/watch?v=_a5j7KoflTs)               | ✅     | -          |
-| 6   | [Learn Tailwind](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=336s)    | ✅     | -          |
-| 7   | [Learn JS Fundamentals](https://youtu.be/XIOLqoPHCJ4)                   | ✅     | -          |
-| 8   | [Learn DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)   | ✅     | -          |
-| 9   | [Learn Asyncronus Javascript](https://youtu.be/ZYb_ZU8LNxs)             | ✅     | -          |
-| 10  | [Build a Todo JS app](https://youtu.be/y71CdVq5SvI)                     | ✅     | -          |
-| 11  | [Learn React Fundamentals](https://youtu.be/w7ejDZ8SWv8)                | ✅     | -          |
-| 12  | [Learn Node JS from scratch](https://youtu.be/f2EqECiTBL8)              |        | -          |
+| No. | Task                                                                                              | Status | Deployment |
+| --- | ------------------------------------------------------------------------------------------------- | ------ | ---------- |
+| 1   | [HTML Basics](https://youtu.be/UB1O30fR-EE)                                                       | ✅     | -          |
+| 2   | [CSS Basics](https://youtu.be/yfoY53QXEnI)                                                        | ✅     | -          |
+| 3   | [Build Website (HTML CSS)](https://www.youtube.com/watch?v=lvYnfMOUOJY)                           | ✅     | -          |
+| 4   | [Learn Flexbox](https://www.youtube.com/watch?v=3YW65K6LcIA)                                      | ✅     | -          |
+| 5   | [Learn SASS](https://www.youtube.com/watch?v=_a5j7KoflTs)                                         | ✅     | -          |
+| 6   | [Learn Tailwind](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=336s)                              | ✅     | -          |
+| 7   | [Learn JS Fundamentals](https://youtu.be/XIOLqoPHCJ4)                                             | ✅     | -          |
+| 8   | [Learn DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)                             | ✅     | -          |
+| 9   | [Learn Asyncronus Javascript](https://youtu.be/ZYb_ZU8LNxs)                                       | ✅     | -          |
+| 10  | [Build a Todo JS app](https://youtu.be/y71CdVq5SvI)                                               | ✅     | -          |
+| 11  | [Learn React Fundamentals](https://youtu.be/w7ejDZ8SWv8)                                          | ✅     | -          |
+| 12  | [Learn Node JS from scratch](https://youtu.be/f2EqECiTBL8)                                        | ✅     | -          |
+| 13  | [Goal App Using MERN Stack](https://youtube.com/playlist?list=PLTMNWTDdd5z_CtvbzG6r1f4hjnCaphPTV) |        | -          |
