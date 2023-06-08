@@ -9,4 +9,4 @@
 - Implementing JWT token-based authentication for enhanced security 🔐
 - Integration of Twitter API in your website for seamless sharing on Twitter 🐦
 
-Keep up the great work and enjoy the final tasks of the Bytewise MERN Track! 💻🚀
+Bytewise MERN Track! 💻🚀
