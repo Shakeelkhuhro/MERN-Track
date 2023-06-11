@@ -20,4 +20,5 @@ This is a repository for the tasks assigned to me as part of the Bytewise MERN F
 | 10  | [Build a Todo JS app](https://youtu.be/y71CdVq5SvI)                                               | ✅     | -          |
 | 11  | [Learn React Fundamentals](https://youtu.be/w7ejDZ8SWv8)                                          | ✅     | -          |
 | 12  | [Learn Node JS from scratch](https://youtu.be/f2EqECiTBL8)                                        | ✅     | -          |
-| 13  | [Goal App Using MERN Stack](https://youtube.com/playlist?list=PLTMNWTDdd5z_CtvbzG6r1f4hjnCaphPTV) |        | -          |
+| 13  | [Goal App Using MERN Stack](https://youtube.com/playlist?list=PLTMNWTDdd5z_CtvbzG6r1f4hjnCaphPTV) | ✅     | -          |
+| 14  | [Final Project]() |      | -          |
