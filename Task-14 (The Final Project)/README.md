@@ -10,3 +10,14 @@
 - Integration of Twitter API in your website for seamless sharing on Twitter 🐦
 
 Bytewise MERN Track! 💻🚀
+
+## Action steps:
+
+- [ ] MVCR separation
+- [ ] Redux with Redux Saga
+- [ ] Email functionality
+- [ ] Complete authentication system
+- [ ] Setup cron job
+- [ ] Queue and dispatch email processes
+- [ ] Implement JWT token-based authentication
+- [ ] Integrate Twitter API
